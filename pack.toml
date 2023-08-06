@@ -1,0 +1,13 @@
+name = "Julies Essentials"
+author = "Julie"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c08a00911cef8236aee62f96d81e4b40de481e72df1aa81a28ee61b77fac95df"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.20.0-beta.10"
